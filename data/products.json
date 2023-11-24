@@ -1,0 +1,92 @@
+[
+  {
+    "farmhouse": "Manhattan",
+    "address": "503 Broadway, New York, USA",
+    "name": "Parmin Aujla",
+    "info": "+1 (629) 555-0129 paujla@instock.com"
+  },
+  {
+    "farmhouse": "Washington",
+    "address": "33 Pearl Street SW, Washington, USA",
+    "name": "Graeme Lyon",
+    "info": "+1 (647) 504-0911 glyon@instock.com"
+  },
+  {
+    "farmhouse": "Jersey",
+    "address": "300 Main Street, New Jersey, USA",
+    "name": "Graeme Lyon",
+    "info": "+1 (647) 504-0911 glyon@instock.com"
+  },
+  {
+    "farmhouse": "San Fran",
+    "address": "890 Brannan Street, San Francisco, USA",
+    "name": "Gary Wong",
+    "info": "+1 (239) 555-0108 gwong@instock.com"
+  },
+  {
+    "farmhouse": "Santa Monica",
+    "address": "520 Broadway, Santa Monica, USA",
+    "name": "Sharon Ng",
+    "info": "+1 (270) 555-0117 sng@instock.com"
+  },
+  {
+    "farmhouse": "Seattle",
+    "address": "1201 Third Avenue, Seattle, USA",
+    "name": "Daniel Bachu",
+    "info": "+1 (480) 555-0103 dbachu@instock.com"
+  },
+  {
+    "farmhouse": "Miami",
+    "address": "2650 NW 5th Avenue, Miami, USA",
+    "name": "Alana Thomas",
+    "info": "+1 (647) 832-2065 athomas@instock.com"
+  },
+  {
+    "orbs": "Quinoa",
+    "category": "Whole-grain",
+    "status": "IN STOCK",
+    "quantity": 500
+  },
+  {
+    "orbs": "Tomatoes",
+    "category": "Vegetables",
+    "status": "OUT OF STOCK",
+    "quantity": 0
+  },
+  {
+    "orbs": "Pumpkin Seeds",
+    "category": "Seeds",
+    "status": "OUT OF STOCK",
+    "quantity": 0
+  },
+  {
+    "orbs": " Barley Pearl",
+    "category": "Whole-grain",
+    "status": "IN STOCK",
+    "quantity": 2000
+  },
+  {
+    "orbs": "Bananas",
+    "category": "Fruits",
+    "status": "IN STOCK",
+    "quantity": 4350
+  },
+  {
+    "orbs": "Carrots",
+    "category": "Vegetables",
+    "status": "IN STOCK",
+    "quantity": 10000
+  },
+  {
+    "orbs": "Mangoes",
+    "category": "Fruits",
+    "status": "IN STOCK",
+    "quantity": 800
+  },
+  {
+    "orbs": "Almonds",
+    "category": "Seeds",
+    "status": "OUT OF STOCK",
+    "quantity": 0
+  }
+]
