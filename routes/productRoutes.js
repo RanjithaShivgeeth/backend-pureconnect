@@ -13,7 +13,9 @@ router.get("/products", (req, res) => {
 
 router.get("/products/:id", (req, res) => {
   const products = JSON.parse(fs.readFileSync("./data/products.json"));
-  const foundProduct = products.find((product) => product.id === req.params.id);
+  const foundProduct = products.find((product) => product.id == req.params.id);
+  console.log(req.params.id);
+  console.log(products);
   res.send(JSON.stringify(foundProduct));
 });
 

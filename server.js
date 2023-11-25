@@ -3,6 +3,7 @@ const app = express();
 const cors = require("cors");
 const productRoutes = require("./routes/productRoutes");
 const videoRoutes = require("./routes/videoRoutes");
+const farmhouseRoutes = require("./routes/farmhouseRoutes");
 require("dotenv").config(); // load environment variables from a .env file into process.env
 
 const { PORT } = process.env; // destructuring assignment of PORT from process.env
@@ -13,6 +14,7 @@ app.use(cors()); // allow cross-origin requests
 
 app.use(productRoutes); // use apiRoutes as a middleware
 app.use(videoRoutes);
+app.use(farmhouseRoutes);
 
 app.listen(PORT, () => {
   console.log(`Server is running at http://localhost:${PORT}`);

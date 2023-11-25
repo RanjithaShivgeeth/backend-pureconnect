@@ -7,6 +7,11 @@ router.get("/", (req, res) => {
   res.send("Hello API routes");
 });
 
+router.get("/videos", (req, res) => {
+  const videos = JSON.parse(fs.readFileSync("./data/videos.json"));
+  res.send(videos);
+});
+
 router.get("/videos/:id", (req, res) => {
   const videos = JSON.parse(fs.readFileSync("./data/videos.json"));
   // console.log("req.params.id", req.params.id);

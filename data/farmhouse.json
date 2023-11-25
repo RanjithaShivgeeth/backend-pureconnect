@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "farmhouse": "Manhattan",
+    "address": "503 Broadway, New York, USA",
+    "name": "Parmin Aujla",
+    "info": "+1 (629) 555-0129 paujla@instock.com"
+  },
+  {
+    "id": 2,
+    "farmhouse": "Washington",
+    "address": "33 Pearl Street SW, Washington, USA",
+    "name": "Graeme Lyon",
+    "info": "+1 (647) 504-0911 glyon@instock.com"
+  },
+  {
+    "id": 3,
+    "farmhouse": "Jersey",
+    "address": "300 Main Street, New Jersey, USA",
+    "name": "Graeme Lyon",
+    "info": "+1 (647) 504-0911 glyon@instock.com"
+  },
+  {
+    "id": 4,
+    "farmhouse": "San Fran",
+    "address": "890 Brannan Street, San Francisco, USA",
+    "name": "Gary Wong",
+    "info": "+1 (239) 555-0108 gwong@instock.com"
+  },
+  {
+    "id": 5,
+    "farmhouse": "Santa Monica",
+    "address": "520 Broadway, Santa Monica, USA",
+    "name": "Sharon Ng",
+    "info": "+1 (270) 555-0117 sng@instock.com"
+  },
+  {
+    "id": 6,
+    "farmhouse": "Seattle",
+    "address": "1201 Third Avenue, Seattle, USA",
+    "name": "Daniel Bachu",
+    "info": "+1 (480) 555-0103 dbachu@instock.com"
+  },
+  {
+    "id": 7,
+    "farmhouse": "Miami",
+    "address": "2650 NW 5th Avenue, Miami, USA",
+    "name": "Alana Thomas",
+    "info": "+1 (647) 832-2065 athomas@instock.com"
+  }
+]
